@@ -1,0 +1,5 @@
+Rencana Web Kasir
+-Membuat menu utama
+-Membuat menu login
+-Membuat menu sign up
+-Membuat daftar harga barang
