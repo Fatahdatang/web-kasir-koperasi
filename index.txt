@@ -1,2 +1,3 @@
 ini adalah Home
-tambah login
+Menghapus fitur login dan menambahkan fitur sign up
+
